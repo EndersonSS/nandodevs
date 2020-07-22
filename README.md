@@ -25,6 +25,7 @@
 <br/>
 <br/>
 
+
 - 🔭 Eu estou atualmente estou colocando em prática meus conhecimentos com Java e Python.
 - 💻 Eu estou desenvolvendo pequenos projetos práticos e participando de Bootcamps.
 - 🌱 Eu estou atualmente estudando Flutter.
@@ -33,18 +34,35 @@
 - 💬 Vamos bater um papo sobre Desenvolvimento de Apps e muito mais.
 - ⚡ Diversão: Trabalhando seis horas e o restante estudando e vendo séries.
 
-<div align="center">
+
   
-  
-  **Liguagens e Ferramentas:**  
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+
+
+**Liguagens e Ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>    
 
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandodevs&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nandodevs&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
+</a>
+<a href="https://github.com/nandodevs/GameNaveEspacialPython">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=GameNaveEspacialPython&theme=dark" />
+</a>
+
+<div align="center">
+  
 ### Siga meus repositórios ❤️ e acompanhe meu progresso como Dev!
 
 </div>
