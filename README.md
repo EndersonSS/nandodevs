@@ -25,9 +25,8 @@
 <br/>
 <br/>
 
-
-
-- 🔭 Eu estou atualmente trabalhando com [Backend e Front em Java].
+- 🔭 Eu estou atualmente estou colocando em prática meus conhecimentos com Java e Python.
+- 💻 Eu estou desenvolvendo pequenos projetos práticos e participando de Bootcamps.
 - 🌱 Eu estou atualmente estudando Flutter.
 - 👯 Eu estou querendo iniciar um canal no [Youtube](https://www.youtube.com/channel/UCtWB16LKf2F8-Pz-8fBOK_Q?view_as=subscriber).
 - 🤔 Eu estou tentando entender mais sobre Azure e AWS.
@@ -35,6 +34,16 @@
 - ⚡ Diversão: Trabalhando seis horas e o restante estudando e vendo séries.
 
 <div align="center">
+  
+  
+  **Liguagens e Ferramentas:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
 
 ### Siga meus repositórios ❤️ e acompanhe meu progresso como Dev!
 
