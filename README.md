@@ -47,10 +47,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandodevs&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/nandodevs">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nandodevs&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nandodevs&show_icons=true&theme=dracula&line_height=27" alt="Status do meu GitHub"/>
 </a>
 <a href="https://github.com/nandodevs/GameNaveEspacialPython">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=GameNaveEspacialPython&theme=dark" />
+</a>
+<a href="https://github.com/nandodevs/family_tree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=familytree&theme=dark" />
 </a>
 
 <div align="center">
