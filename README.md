@@ -53,7 +53,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=GameNaveEspacialPython&theme=dark" />
 </a>
 <a href="https://github.com/nandodevs/family_tree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=familytree&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nandodevs&repo=family_tree&theme=dark" />
 </a>
 
 <div align="center">
