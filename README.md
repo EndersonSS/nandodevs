@@ -1,4 +1,4 @@
-## Olá, Eu sou Sisnando Junior! 👋
+## Olá, Eu sou o Sisnando Junior! 👋
 
 <a href="https://twitter.com/nando_junior30">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
